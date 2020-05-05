@@ -3,6 +3,8 @@
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 
+# 200505 : git rebase practice
+
 import random, pygame, sys
 import tensorflow as tf
 import numpy as np
